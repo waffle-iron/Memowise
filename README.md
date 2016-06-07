@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/electric-crouton/Memowise.png?label=ready&title=Ready)](https://waffle.io/electric-crouton/Memowise)
 # Memowise 
 
 [Memowise](http://memowise.xyz/) is an awesome flash card app!
